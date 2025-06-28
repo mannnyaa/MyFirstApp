@@ -10,11 +10,10 @@
     "splashImageUrl": "https://f-demo.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
   },
-  {
+{
   "accountAssociation": {
     "header": "eyJmaWQiOjY4MDg3NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEY4MWUzNjhmZDk4MDU3MEMzYWVmQThBZjY3N2FkZDg3Mjk2OGI5MWYifQ",
     "payload": "eyJkb21haW4iOiJteS1maXJzdC1hcHAtdHdvLWlua3kudmVyY2VsLmFwcCJ9",
     "signature": "MHgyYzRlZDdiZGQ0MDBjNmYzZTRjOTQxMmU4MDc2YjNmYzI0ZjhiNzE2MzRiYzViMTYwMjJiODRjMWQ4NWJmMzRjNzU0MGE5OWU1MDI0YzkxY2E0MzdkZmEzZDZkNWE0YjVhZjczYTg1NTc2NGVjMjA4ZGMwMzg0NmYzNThjNjhmZDFi"
   }
-}
 }
